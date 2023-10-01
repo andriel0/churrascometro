@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+form{
+    border: 0.01rem solid;
+    border-color: darkorange;
+    padding: 1%;
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color:rgb(247, 255, 255);
+}
+input{
+    text-align: start;
+}
